@@ -1,62 +1,124 @@
-Nishant Kumar Shrivastav
-Website | LinkedIn | nishantshrivastav1996@gmail.com | +91 9654951701 | Delhi, India
-PROFESSIONAL SUMMARY
-Finance professional with 9+ years of progressive experience in accounting, statutory audit, taxation, and financial reporting across Chartered
-Accountancy firms and corporate finance functions. Strong track record in financial statement analysis, regulatory compliance, and
-MIS reporting, with hands-on exposure to advising clients on financial structuring. Currently building targeted investment banking skills
-through a Post Graduate Certification in Investment Banking (MeritShot, in progress), covering financial modeling, valuation, and capital
-budgeting. Seeking to transition into an entry-level investment banking or corporate finance role where a strong accounting and analytical
-foundation can be applied and developed further.
-CORE COMPETENCIES
-• Financial Statement Analysis & Reporting
-• Corporate & Individual Taxation (GST, GSTR, ITR, ROC)
-• Statutory, Internal & Tax Audit
-• Financial Advisory on Compliance & Structuring
-• MIS Reporting & Business Intelligence
-• Client Relationship & Stakeholder Management
-• Team Supervision & Process Improvement
-• Advanced Excel & Power BI (Data Analytics)
-• ERP Tools: Tally Prime, Busy, Computax
-INVESTMENT BANKING SKILLS (IN PROGRESS)
-Developed through coursework and self-study; not yet applied in a professional investment banking setting.
-• Financial Modeling & Forecasting
-• Valuation Concepts & Capital Budgeting
-• Projection Reports & Investment Analysis Fundamentals
-• M&A & Due Diligence Concepts (academic exposure)
-• Power BI (Beginner Level)
-PROFESSIONAL EXPERIENCE
-Transzone Logistics (India) Pvt. Ltd. New Delhi
-Account Manager Mar 2025 – Present
-• Oversaw end-to-end accounting operations and statutory compliance (GSTR-1, GSTR-3B filing).
-• Finalized accounts and led monthly closings, enabling clear financial decision-making.
-• Supervised junior accountants, ensuring accuracy in receivables/payables and reporting.
-• Provided financial insights to management for cost optimization and strategic planning.
-PDM & Co. (Chartered Accountants) Jhandewalan, New Delhi
-Senior Account Manager Nov 2022 – Mar 2025
-• Led GST audits (GSTR-9/9C) and tax audits for high-value corporate clients.
-• Handled corporate and trust tax filings, including high-complexity ITRs.
-• Drafted and reviewed balance sheets, projection reports, and regulatory filings.
-• Advised clients on compliance and financial structuring matters.
-• Mentored a team of 5+ junior accountants; designed process improvements for efficiency.
-A.S. Impex (Import & Export) New Delhi
-Account Executive Jul 2018 – Nov 2022
-• Managed cross-border transaction accounting, including customs reconciliation and billing.
-• Responsible for cash flow tracking, reconciliations, and financial reporting.
-• Liaised with suppliers and financial institutions, ensuring transactional transparency.
-• Played key role in monthly MIS reporting and cost control measures.
-Kumar Vijay Gupta & Co. (Chartered Accountants) New Delhi
-Account Manager Sep 2015 – Jul 2018
-• Executed audits and full-cycle accounting services for SMEs and corporations.
-• Handled inventory and bank reconciliations, payment processing, and ledger management.
-• Generated monthly, quarterly, and annual financial statements; ensured statutory compliance.
-• Consulted on taxation issues and handled direct tax assessments.
-EDUCATION
-• MBA (Finance) – Amity University, Noida Pursuing
-• M.Com (Finance) – IGNOU
-• B.Com – Delhi University (School of Open Learning)
-• Class XII & X – CBSE Board
-CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
-• Post Graduate Certification in Investment Banking – MeritShot (In Progress)
-• Capital Budgeting Certificate – Great Learning
-• Certificate in SEBI Investor Awareness – NISM
-• Certificate in Professional and Life Skills – Amity University
+# Nishant Kumar Shrivastav
+
+## Finance Professional | Investment Banking | Corporate Finance
+
+Welcome to my Investment Banking & Corporate Finance Portfolio.
+
+I am a finance professional with 8+ years of experience in accounting and finance, currently building practical expertise in financial modelling, valuation, financial analysis, M&A and corporate finance.
+
+---
+
+## About Me
+
+* M.Com
+* MBA – Finance
+* B.Com (Hons.)
+* 8+ years of Accounting & Finance experience
+* Financial reporting and accounting
+* GST and taxation
+* Audit support
+* Financial analysis
+* Corporate finance and investment banking skill development
+
+---
+
+## Core Skills
+
+* Financial Statement Analysis
+* Financial Modelling
+* DCF Valuation
+* Company Valuation
+* Comparable Company Analysis
+* M&A Analysis
+* Due Diligence
+* Corporate Finance
+* Working Capital Analysis
+* Ratio Analysis
+* Business Research
+* Microsoft Excel
+
+---
+
+## Investment Banking Portfolio
+
+### 01 — DCF Valuation
+
+A practical Discounted Cash Flow valuation model covering:
+
+* Revenue Forecast
+* EBITDA
+* Free Cash Flow
+* WACC
+* Terminal Value
+* Enterprise Value
+* Equity Value
+* Sensitivity Analysis
+
+### 02 — Financial Statement Analysis
+
+Analysis of a company covering:
+
+* Income Statement
+* Balance Sheet
+* Cash Flow Statement
+* Profitability Ratios
+* Liquidity Ratios
+* Solvency Ratios
+* Working Capital
+
+### 03 — Comparable Company Analysis
+
+Valuation using:
+
+* P/E
+* EV/EBITDA
+* EV/Sales
+* Enterprise Value
+* Market Capitalization
+
+### 04 — M&A Case Study
+
+A practical M&A analysis covering:
+
+* Target Company Analysis
+* Valuation
+* Transaction Structure
+* Strategic Rationale
+* Synergies
+* Deal Analysis
+
+---
+
+## Portfolio Projects
+
+| Project                      | Status      |
+| ---------------------------- | ----------- |
+| DCF Valuation Model          | In Progress |
+| Financial Statement Analysis | Planned     |
+| Comparable Company Analysis  | Planned     |
+| M&A Case Study               | Planned     |
+| Financial Modelling          | Planned     |
+
+---
+
+## Career Focus
+
+Investment Banking
+Corporate Finance
+M&A
+Financial Analysis
+Valuation
+Due Diligence
+
+---
+
+## Contact
+
+**Nishant Kumar Shrivastav**
+
+GitHub: https://github.com/nishantkumarshrivastav
+
+LinkedIn: Add your LinkedIn profile
+
+Email: Add your professional email
+
